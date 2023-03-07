@@ -1,0 +1,12 @@
+Instructions for importing and running the "Demo Pet Store.postman_collection" in Postman: 
+
+1. Download the "Demo Pet Store.postman_collection.json" file to your local machine.
+2. Open Postman and select the "Import" button.
+3. In the "Import" window, click the "Choose Files" button and select the "Demo Pet Store.postman_collection.json".
+4. Click the "Import" button to start the import process.
+5. After the import process is complete, you should see a new collection named "Demo Pet Store" in your Postman workspace.
+6. To run the collection, click on the "Runner" button.
+7. In the "Runner" window, select the "Demo Pet Store" collection.
+8. Click the "Run" button to start the tests.
+
+Once the tests have finished running, you can view the results in the "Runner Results" window.
