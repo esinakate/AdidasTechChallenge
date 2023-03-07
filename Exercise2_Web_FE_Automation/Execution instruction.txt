@@ -1,0 +1,5 @@
+1. Clone repository to your Desktop: git clone https://github.com/esinakate/AdidasTechChallenge.git
+2. Open following folder in Terminal: cd Exercise2_Web_FE_Automation
+3. Run following commands:
+npm install --save puppeteer
+Node test
